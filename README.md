@@ -1,6 +1,6 @@
 # Hi, I'm Chloe 👋
 
-📍 **Bay Area, CA** | 🧭 **Principal PM — Human-in-the-Loop AI Evaluation** | 🚀 **Building full-cycle AI products**
+📍 **SF Bay Area, CA** | 🧭 **Principal PM** | 🚀 **Building full-cycle AI products**
 
 ![Product Management](https://img.shields.io/badge/-Product%20Management-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-412991?style=flat-square&logo=openai&logoColor=white)
