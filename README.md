@@ -1,6 +1,6 @@
 # Hi, I'm Chloe 👋
 
-📍 **SF Bay Area, CA** | 🧭 **Principal PM** | 🚀 **Building full-cycle AI products**
+📍 **Bay Area, CA** | 🧭 **Principal PM — Human-in-the-Loop AI Evaluation** | 🚀 **Building full-cycle AI products**
 
 ![Product Management](https://img.shields.io/badge/-Product%20Management-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-412991?style=flat-square&logo=openai&logoColor=white)
@@ -28,11 +28,10 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 
 ## 🚀 Currently Building
 
-- 📺 **[streamscope](https://github.com/chloe4ai/streamscope)** — CTV cross-platform recommendation engine
-- 🥬 **[farmvend](https://github.com/chloe4ai/farmvend)** — Farmers market vendor management: inventory, payments, and sales analytics
-- 🍡 **[farmers-market-app](https://github.com/chloe4ai/farmers-market-app)** — *Mochi Market*, a vendor app with inventory prediction, dynamic pricing, and sales reporting
-- 📄 **[gdocs-skill](https://github.com/chloe4ai/gdocs-skill)** — Google Docs automation via the official SDK
-- 🛰️ **[OrbitOS](https://github.com/chloe4ai/OrbitOS)** — AI-orchestrated personal productivity system
+- 📊 **[ad-creative-optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** — AI-powered ad-creative fatigue prediction across Google, Meta & TikTok Ads, with smart rotation alerts
+- 🛒 **[offsite-ads-demo](https://github.com/chloe4ai/offsite-ads-demo)** — Interactive off-site ad campaign demo for Amazon DSP & Walmart Connect
+- 📺 **[streamscope](https://github.com/chloe4ai/streamscope)** — Cross-platform recommendation engine for connected-TV (CTV) streaming
+- 🍡 **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** — Farmers market vendor app with inventory prediction, dynamic pricing, and sales reporting
 
 ## 📈 Track Record
 
@@ -43,8 +42,6 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 - **China Post** — PM · delivered the E-Packet platform 0→1, powering **100M+ shipments/day** at 95% market share
 
 ## 📊 GitHub Activity
-
-[![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe4ai&show_icons=true&hide_border=true&theme=default)](https://github.com/chloe4ai)
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/chloe4ai)](https://github.com/chloe4ai)
 
