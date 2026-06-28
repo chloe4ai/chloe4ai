@@ -28,11 +28,10 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 
 ## 🚀 Currently Building
 
-- 📊 **[ad-creative-optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** — AI-powered ad-creative fatigue prediction across Google, Meta & TikTok Ads, with smart rotation alerts
-- 🛒 **[offsite-ads-demo](https://github.com/chloe4ai/offsite-ads-demo)** — Interactive off-site ad campaign demo for Amazon DSP & Walmart Connect
-- 📺 **[streamscope](https://github.com/chloe4ai/streamscope)** — Cross-platform recommendation engine for connected-TV (CTV) streaming
 - 🍡 **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** — Farmers market vendor app with inventory prediction, dynamic pricing, and sales reporting
-
+- 🤖 **[AI Tracker](https://github.com/chloe4ai/ai-trackers)** — Prompt-driven scheduled AI trackers (Thinker / Feature / Trend) delivering bilingual EN + 中文 digests as Google Calendar reminders
+- 📔 **[日记 / notch](https://github.com/chloe4ai/notch)** — Local-first macOS work journal that auto-traces your day (apps, windows, screenshots) into AI summaries
+    
 ## 📈 Track Record
 
 - **Walmart** — Principal PM, Data & Ads · lifted model response quality **42%** and helpfulness **38%** across 10,000+ enterprise users; scaled eval ops to **600+ annotators** across 4 vendor partners
