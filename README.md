@@ -29,7 +29,7 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 ## 🚀 Currently Building
 
 - 🍡 **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** — Farmers market vendor app with inventory prediction, dynamic pricing, and sales reporting
-- 🤖 **[AI Tracker](https://github.com/chloe4ai/ai-trackers)** — Prompt-driven scheduled AI trackers (Thinker / Feature / Trend) delivering bilingual EN + 中文 digests as Google Calendar reminders
+- 🤖 **[AI Tracker](https://github.com/chloe4ai/ai-trackers)** — Prompt-driven scheduled AI trackers (Thinker / Feature / Trend) delivering digests as Google Calendar reminders
 - 📔 **[Notch](https://github.com/chloe4ai/notch)** — Local-first macOS work journal that auto-traces your day (apps, windows, screenshots) into AI summaries
     
 ## 📈 Track Record
