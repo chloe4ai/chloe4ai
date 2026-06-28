@@ -30,7 +30,7 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 
 - 🍡 **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** — Farmers market vendor app with inventory prediction, dynamic pricing, and sales reporting
 - 🤖 **[AI Tracker](https://github.com/chloe4ai/ai-trackers)** — Prompt-driven scheduled AI trackers (Thinker / Feature / Trend) delivering bilingual EN + 中文 digests as Google Calendar reminders
-- 📔 **[日记 / notch](https://github.com/chloe4ai/notch)** — Local-first macOS work journal that auto-traces your day (apps, windows, screenshots) into AI summaries
+- 📔 **[Notch](https://github.com/chloe4ai/notch)** — Local-first macOS work journal that auto-traces your day (apps, windows, screenshots) into AI summaries
     
 ## 📈 Track Record
 
@@ -38,7 +38,6 @@ My background blends **Computer Science** (BEng, Software Engineering), **Cognit
 - **iHerb** — Lead PM · improved recommendation precision **33%**, cut churn **22%**, raised inter-annotator agreement from 71% → **94%**
 - **Wish** — Senior PM · boosted engagement **38%** and grew active users **147%** on the personalized recommendation engine
 - **Amazon** — Senior PM · lifted forecast accuracy **24%** and cut stockouts **18%** across millions of SKUs
-- **China Post** — PM · delivered the E-Packet platform 0→1, powering **100M+ shipments/day** at 95% market share
 
 ## 📊 GitHub Activity
 
