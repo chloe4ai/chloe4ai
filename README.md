@@ -16,7 +16,7 @@
 
 I'm a **Principal Product Manager** in Walmart's Data & Ads Global Product Org, where I run the human-in-the-loop evaluation program behind AI-driven products — designing eval frameworks, scorecards, and annotator operations that make models measurably better.
 
-My background blends **Computer Science** (BEng, Software Engineering), **Cognitive Science** (MA, UC Irvine), and an **MBA** (Cornell Johnson) — technical fluency paired with consulting-grade strategy. I care equally about the low-level architecture and the real-world application.
+My background blends **Computer Science**, **Cognitive Science**, and an **MBA** (Cornell University) — technical fluency paired with consulting-grade strategy. I care equally about the low-level architecture and the real-world application.
 
 **What I work on**
 
