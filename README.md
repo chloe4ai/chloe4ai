@@ -1,6 +1,6 @@
 ## Chloe Tan
 
-**Principal Product Manager — ad serving, retail media, and AI evaluation.**
+**Principal Product Manager — AdTech, eCommerce, and AI.**
 
 At Walmart I own the ad decisioning stack — targeting, pacing, relevance, measurement — and the human-in-the-loop evaluation platform that keeps its models honest. Before that: Amazon, Wish, iHerb. Cornell MBA, CS undergrad, MA in cognitive science.
 
