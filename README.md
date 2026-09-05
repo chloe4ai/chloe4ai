@@ -12,7 +12,11 @@
 
 > I turn human judgment into measurable product quality. After a decade shipping 0→1 and at-scale AI/ML products, I'm now building full-cycle AI tools end to end — from the underlying architecture to the practical apps people actually use.
 
-## About Me
+<br>
+
+---
+
+## 💡 About Me
 
 I'm a **Principal Product Manager** in Walmart's Data & Ads Global Product Org, where I run the human-in-the-loop evaluation program behind AI-driven products — designing eval frameworks, scorecards, and annotator operations that make models measurably better.
 
@@ -26,6 +30,10 @@ My background blends **Computer Science**, **Cognitive Science**, and an **MBA**
 - 🛠️ **Full-cycle product building** — 0→1 prototypes through scaled launches, hands-on as both planner and builder
 - 📊 **Quantitative impact** — every initiative tied to revenue, retention, quality, or efficiency
 
+<br>
+
+---
+
 ## 🗂️ Selected Work
 
 Twenty-nine repos is a pile, not a portfolio. Here is the same material sorted by what each
@@ -33,25 +41,29 @@ piece is actually evidence of.
 
 ### AI evaluation & data quality — the thesis
 
-| Project | What it demonstrates |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it demonstrates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | **[LLM Eval Scorecard](https://github.com/chloe4ai/llm-eval-scorecard)** · [live](https://chloe4ai.github.io/llm-eval-scorecard/) | Side-by-side human eval with the parts most scorecards skip: randomized pane order with a position-bias test, bootstrap confidence intervals on the score gap, Krippendorff's α and weighted κ across raters, and a sample-size readout. Answers *can you act on this yet?*, not just *who won?* |
 | **[AI Trackers](https://github.com/chloe4ai/ai-trackers)** | Three scheduled trackers whose entire logic lives in natural-language `SKILL.md` files rather than code — an agent reads them, gathers live data, and delivers a bilingual digest. A bet on prompts-as-programs. |
 
+<br>
+
 ### Ad tech & marketplace — the day job, built out
 
-| Project | What it demonstrates |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it demonstrates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Predicts creative fatigue across Google, Meta and TikTok, then auto-rotates. Decisioning and pacing logic made inspectable. |
 | **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
 | **[FarmVend](https://github.com/chloe4ai/farmvend)** · [live](https://farmvend.vercel.app) | Vendor management for farmers markets: inventory prediction, payments, dynamic pricing. A whole two-sided marketplace at small scale. |
+
+<br>
 
 ### Product prototypes — built to argue a position, not to look pretty
 
 Each one picks a narrow problem and takes a position on it. The README in each explains the
 problem, the positions it defends, and what it deliberately is *not*.
 
-| Project | The argument |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it demonstrates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | **[Glean Delivery Intelligence](https://github.com/chloe4ai/glean-delivery-intelligence)** · [live](https://chloe4ai.github.io/glean-delivery-intelligence/) | Proactive beats search — but only if every pushed insight can show the weight and measured precision of the signals beneath it. |
 | **[Glean Compass](https://github.com/chloe4ai/glean-compass-v2)** · [live](https://chloe4ai.github.io/glean-compass-v2/) | Priority drift, detected. Precision over recall on purpose: two flags, not forty, and dismissal is training data rather than a delete button. |
@@ -61,28 +73,33 @@ problem, the positions it defends, and what it deliberately is *not*.
 | **[Stitch Fix Household](https://github.com/chloe4ai/stitchfix-household)** · [live](https://stitchfix-household.vercel.app) | Extending personal styling to a household — cross-category browse and shared profiles. |
 | **[Midi Health](https://github.com/chloe4ai/midi-health-prototype)** · [live](https://midi-health.vercel.app) | Five specific conversion changes to a telehealth funnel, each tied to the anxiety it removes. |
 
+<br>
+
 ### Tools I built because I wanted them
 
-| Project | What it is |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
-| **[Sotto](https://github.com/chloe4ai/sotto)** 🎙 | Privacy-first on-device voice dictation. Speak softly, never type. |
-| **[Notch 日迹](https://github.com/chloe4ai/notch)** 📔 | Local-first macOS work journal that traces your day into AI summaries. |
+| **[Sotto](https://github.com/chloe4ai/sotto)** | Privacy-first on-device voice dictation. Speak softly, never type. |
+| **[Notch 日迹](https://github.com/chloe4ai/notch)** | Local-first macOS work journal that traces your day into AI summaries. |
 | **[Meeting Scribe](https://github.com/chloe4ai/meeting-scribe)** | Menu-bar app that notices a Zoom/Meet/Teams call has started and handles the notes. |
 | **[LinkedIn Schedule Send](https://github.com/chloe4ai/linkedin-schedule-send)** | The button LinkedIn should have shipped. |
 
+<br>
+
 ### Data-driven scouting
 
-| Project | What it is |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it demonstrates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | **[Adaptation Radar](https://github.com/chloe4ai/adaptation-radar)** · [live](https://chloe4ai.github.io/adaptation-radar/) | Ranks books by screen-adaptation potential from four live public APIs, with every weight a slider so the model is something you argue with. A scheduled harvest records history, so the board shows the *slope*, not just the level. |
 | **[StreamScope](https://github.com/chloe4ai/streamscope)** · [live](https://chloe4ai.github.io/streamscope/) | Unifies viewing history across Netflix, HBO Max, Hulu, Disney+ and Prime. |
 
-<details>
-<summary><b>Creative work</b> — animatics from <i>Romance of the Three Kingdoms</i>, and a song</summary>
-
 <br>
 
-| Project | |
+### Creative work
+
+Animatics from *Romance of the Three Kingdoms*, and a song.
+
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | **[Red Cliffs 赤壁](https://github.com/chloe4ai/red-cliffs)** · [watch](https://chloe4ai.github.io/red-cliffs/) | The battle that split the empire three ways |
 | **[Guandu 官渡](https://github.com/chloe4ai/guandu)** · [watch](https://chloe4ai.github.io/guandu/) | Cao Cao outnumbered ten to one |
@@ -90,7 +107,9 @@ problem, the positions it defends, and what it deliberately is *not*.
 | **[Six Sorties 六出祁山](https://github.com/chloe4ai/qishan)** · [watch](https://chloe4ai.github.io/qishan/) | Zhuge Liang's northern expeditions |
 | **[天不再借](https://github.com/chloe4ai/tianbuzaijie)** · [listen](https://chloe4ai.github.io/tianbuzaijie/) | Lyrics, arrangement, and three locally generated vocal takes |
 
-</details>
+<br>
+
+---
 
 ## 📈 Track Record
 
@@ -99,15 +118,27 @@ problem, the positions it defends, and what it deliberately is *not*.
 - **Wish** — Senior PM · boosted engagement **38%** and grew active users **147%** on the personalized recommendation engine
 - **Amazon** — Senior PM · lifted forecast accuracy **24%** and cut stockouts **18%** across millions of SKUs
 
+<br>
+
+---
+
 ## 📊 GitHub Activity
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/chloe4ai)](https://github.com/chloe4ai)
+
+<br>
+
+---
 
 ## 🌱 What I'm Focused On
 
 - **Building a full-cycle AI product** — owning architecture and application end to end
 - **Open to remote Product Manager roles** — AI/ML, evaluation, personalization, and platform products
 - **Sharing what I learn** — practical patterns for human-in-the-loop evaluation and AI product development
+
+<br>
+
+---
 
 ## 🤝 Connect
 
