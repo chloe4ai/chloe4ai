@@ -36,8 +36,7 @@ My background blends **Computer Science** and an **MBA** (Cornell University) �
 
 ## 🗂️ Selected Work
 
-The repos below is a pile, not a portfolio. Here is the same material sorted by what each
-piece is actually evidence of.
+I build to learn. The projects below are grouped by capability rather than chronology, so you can go straight to the kind of work you care about.
 
 ### AI evaluation & data quality — the thesis
 
