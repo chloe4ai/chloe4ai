@@ -36,7 +36,7 @@ My background blends **Computer Science** and an **MBA** (Cornell University) �
 
 ## 🗂️ Selected Work
 
-Twenty-nine repos is a pile, not a portfolio. Here is the same material sorted by what each
+The repos below is a pile, not a portfolio. Here is the same material sorted by what each
 piece is actually evidence of.
 
 ### AI evaluation & data quality — the thesis
