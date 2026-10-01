@@ -38,6 +38,14 @@ My background blends **Computer Science** and an **MBA** (Cornell University) �
 
 I build to learn. The projects below are grouped by capability rather than chronology, so you can go straight to the kind of work you care about.
 
+### Now building — the startup
+
+| Project | What it demonstrates |
+|---|---|
+| **[Throughline](https://github.com/chloe4ai/throughline)** · [live](https://chloe4ai.github.io/throughline/) | Documentation, billing and home-exercise adherence for outpatient PT (Physical Therapy) clinics, built toward a real product. One rule holds it together: the claim is derived from the note, never typed alongside it. Underneath is a tested billing engine — Medicare's 8-minute rule vs. the AMA (American Medical Association) rule of eights, MPPR (Multiple Procedure Payment Reduction), assistant modifiers and contract math — applied in the order that changes the dollars. |
+
+<br>
+
 ### AI evaluation & data quality — the thesis
 
 | Project | What it demonstrates |
@@ -70,6 +78,7 @@ problem, the positions it defends, and what it deliberately is *not*.
 | **[NerdWallet Money Next Steps](https://github.com/chloe4ai/nerdwallet-pm-prototype)** · [live](https://chloe4ai.github.io/nerdwallet-pm-prototype/) | Sequencing beats ranking: clear the 24% APR balance *before* the rewards card. Plus a [full-stack build](https://github.com/chloe4ai/nerdwallet-money-platform) on Next.js + SQLite with a live funnel. |
 | **[Lyft Verticals](https://github.com/chloe4ai/lyft-verticals)** · [live](https://chloe4ai.github.io/lyft-verticals/) | Airport, scheduled rides and teens as one system rather than three features. |
 | **[Stitch Fix Household](https://github.com/chloe4ai/stitchfix-household)** · [live](https://stitchfix-household.vercel.app) | Extending personal styling to a household — cross-category browse and shared profiles. |
+| **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
 | **[Midi Health](https://github.com/chloe4ai/midi-health-prototype)** · [live](https://midi-health.vercel.app) | Five specific conversion changes to a telehealth funnel, each tied to the anxiety it removes. |
 
 <br>
@@ -132,7 +141,7 @@ Animatics from *Romance of the Three Kingdoms*, and a song.
 
 ## 🌱 What I'm Focused On
 
-- **Building a full-cycle AI product** — owning architecture and application end to end
+- **Building a full-cycle AI product** — owning architecture and application end to end, starting with [Throughline](https://github.com/chloe4ai/throughline) for outpatient PT clinics
 - **Open to remote Product Manager roles** — AI/ML, evaluation, personalization, and platform products
 - **Sharing what I learn** — practical patterns for human-in-the-loop evaluation and AI product development
 
