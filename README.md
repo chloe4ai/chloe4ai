@@ -142,7 +142,7 @@ Animatics from *Romance of the Three Kingdoms*, and a song.
 ## 🌱 What I'm Focused On
 
 - **Building a full-cycle AI product** — owning architecture and application end to end, starting with [Throughline](https://github.com/chloe4ai/throughline) for outpatient PT clinics
-- **Open to remote Product Manager roles** — AI/ML, evaluation, personalization, and platform products
+- **Open to Product Manager roles** — AI/ML, evaluation, personalization, and platform products
 - **Sharing what I learn** — practical patterns for human-in-the-loop evaluation and AI product development
 
 <br>
