@@ -89,7 +89,7 @@ problem, the positions it defends, and what it deliberately is *not*.
 | Project | What it is |
 |---|---|
 | **[Sotto](https://github.com/chloe4ai/sotto)** | Privacy-first on-device voice dictation. Speak softly, never type. |
-| **[Notch 日迹](https://github.com/chloe4ai/notch)** | Local-first macOS work journal that traces your day into AI summaries. |
+| **[Notch](https://github.com/chloe4ai/notch)** | Local-first macOS work journal that traces your day into AI summaries. |
 | **[Meeting Scribe](https://github.com/chloe4ai/meeting-scribe)** | Menu-bar app that notices a Zoom/Meet/Teams call has started and handles the notes. |
 | **[LinkedIn Schedule Send](https://github.com/chloe4ai/linkedin-schedule-send)** | The button LinkedIn should have shipped. |
 | **[WeChat MCP Bridge](https://github.com/chloe4ai/wechat-mcp-bridge)** | Gives Claude read access to your own WeChat history on macOS after every single-tool solution broke — ~15 lines of glue between two surviving projects, plus the four permission gates that cost people an afternoon. |
@@ -102,20 +102,6 @@ problem, the positions it defends, and what it deliberately is *not*.
 |---|---|
 | **[Adaptation Radar](https://github.com/chloe4ai/adaptation-radar)** · [live](https://chloe4ai.github.io/adaptation-radar/) | Ranks books by screen-adaptation potential from four live public APIs, with every weight a slider so the model is something you argue with. A scheduled harvest records history, so the board shows the *slope*, not just the level. |
 | **[StreamScope](https://github.com/chloe4ai/streamscope)** · [live](https://chloe4ai.github.io/streamscope/) | Unifies viewing history across Netflix, HBO Max, Hulu, Disney+ and Prime. |
-
-<br>
-
-### Creative work
-
-Animatics from *Romance of the Three Kingdoms*, and a song.
-
-| Project | What it is |
-|---|---|
-| **[Red Cliffs 赤壁](https://github.com/chloe4ai/red-cliffs)** · [watch](https://chloe4ai.github.io/red-cliffs/) | The battle that split the empire three ways |
-| **[Guandu 官渡](https://github.com/chloe4ai/guandu)** · [watch](https://chloe4ai.github.io/guandu/) | Cao Cao outnumbered ten to one |
-| **[Three Visits 三顧茅廬](https://github.com/chloe4ai/three-visits)** · [watch](https://chloe4ai.github.io/three-visits/) | Liu Bei at the thatched cottage, three times |
-| **[Six Sorties 六出祁山](https://github.com/chloe4ai/qishan)** · [watch](https://chloe4ai.github.io/qishan/) | Zhuge Liang's northern expeditions |
-| **[天不再借](https://github.com/chloe4ai/tianbuzaijie)** · [listen](https://chloe4ai.github.io/tianbuzaijie/) | Lyrics, arrangement, and three locally generated vocal takes |
 
 <br>
 
