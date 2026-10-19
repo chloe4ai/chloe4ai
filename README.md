@@ -55,11 +55,12 @@ I build to learn. The projects below are grouped by capability rather than chron
 
 <br>
 
-### Ad tech & marketplace — the day job, built out
+### Ad tech, growth & marketplace — the day job, built out
 
 | Project | What it demonstrates |
 |---|---|
-| **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Predicts creative fatigue across Google, Meta and TikTok, then auto-rotates. Decisioning and pacing logic made inspectable. |
+| **[Notification Lab](https://github.com/chloe4ai/notification-lab)** · [live](https://chloe4ai.github.io/notification-lab/) | Push notifications as a retention channel, not a volume dial. A 180-day cohort simulation grid-searches 54 send policies across three personas and reports what a 30-day test cannot see: D90 retention and how many people can still be reached by push or email. Frequency capping, applied to notifications. |
+| **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Predicts creative fatigue across Google, Meta, TikTok, Pinterest and LinkedIn with an exponential-decay model over each platform's feed, and alerts before the decay shows up in ROAS. Per-platform frequency caps, because a LinkedIn impression and a TikTok impression are not the same unit of attention. |
 | **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
 | **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** · [live](https://farmers-market-app-six.vercel.app/) | Sales logging, inventory forecasting and dynamic pricing for vendors who either sell out or throw out. A small marketplace business, built end to end. |
 
@@ -76,7 +77,7 @@ problem, the positions it defends, and what it deliberately is *not*.
 | **[Glean Compass](https://github.com/chloe4ai/glean-compass-v2)** · [live](https://chloe4ai.github.io/glean-compass-v2/) | Priority drift, detected. Precision over recall on purpose: two flags, not forty, and dismissal is training data rather than a delete button. |
 | **[Glean EI · full-stack](https://github.com/chloe4ai/glean-ei-fullstack)** · [live](https://chloe4ai.github.io/glean-ei-live/) | The same thesis with a real Express backend — confidence genuinely recomputes server-side, agents stream over SSE. |
 | **[NerdWallet Money Next Steps](https://github.com/chloe4ai/nerdwallet-pm-prototype)** · [live](https://chloe4ai.github.io/nerdwallet-pm-prototype/) | Sequencing beats ranking: clear the 24% APR balance *before* the rewards card. Plus a [full-stack build](https://github.com/chloe4ai/nerdwallet-money-platform) on Next.js + SQLite with a live funnel. |
-| **[Lyft Verticals](https://github.com/chloe4ai/lyft-verticals)** · [live](https://chloe4ai.github.io/lyft-verticals/) | Airport, scheduled rides and teens as one system rather than three features. |
+| **[Lyft Verticals](https://github.com/chloe4ai/lyft-verticals)** · [live](https://chloe4ai.github.io/lyft-verticals/) | Airports, scheduled rides and event egress are three marketplaces, not three filters on one — flight-aware pickup, price-lock, post-event demand staging. |
 | **[Stitch Fix Household](https://github.com/chloe4ai/stitchfix-household)** · [live](https://stitchfix-household.vercel.app) | Extending personal styling to a household — cross-category browse and shared profiles. |
 | **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
 | **[Midi Health](https://github.com/chloe4ai/midi-health-prototype)** · [live](https://midi-health.vercel.app) | Five specific conversion changes to a telehealth funnel, each tied to the anxiety it removes. |
