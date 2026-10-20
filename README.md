@@ -18,7 +18,7 @@
 
 ## 💡 About Me
 
-I'm a **Principal Product Manager** in Walmart's Data & Ads Global Product Org, where I run the human-in-the-loop evaluation program behind AI-driven products — designing eval frameworks, scorecards, and annotator operations that make models measurably better.
+**Most recently Principal PM at Walmart** (Data & Ads Global Product Org), where I ran the human-in-the-loop evaluation program behind AI-driven products — designing eval frameworks, scorecards, and annotator operations that made models measurably better.
 
 My background blends **Computer Science** and an **MBA** (Cornell University) — technical fluency paired with consulting-grade strategy. I care equally about the low-level architecture and the real-world application.
 
