@@ -38,13 +38,18 @@ My background blends **Computer Science** and an **MBA** (Cornell University) �
 
 I build to learn. Projects are grouped by capability, newest first within each group. Dates are when each was built (→ when it last got real work, not README edits).
 
-**Status** — **Release**: installable app with a download · **Tested**: test suite running in CI · **Demo**: works end to end, no automated tests · **Concept**: a short build made to argue one product position
+**Status** — four stages of maturity, each one building on the one before:
+
+1. 💡 **Concept** — a short build made to argue one product position
+2. 🛠️ **Demo** — works end to end, no automated tests yet
+3. ✅ **Tested** — a test suite runs in CI on every change
+4. 🚀 **Release** — packaged as an installable app you can download
 
 ### Now building — the startup
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Throughline](https://github.com/chloe4ai/throughline)** · [live](https://chloe4ai.github.io/throughline/) | Sep → Oct 2026 | Tested | Documentation, billing and home-exercise adherence for outpatient PT (Physical Therapy) clinics, built toward a real product. One rule holds it together: the claim is derived from the note, never typed alongside it. Underneath is a tested billing engine — Medicare's 8-minute rule vs. the AMA (American Medical Association) rule of eights, MPPR (Multiple Procedure Payment Reduction), assistant modifiers and contract math — applied in the order that changes the dollars. |
+| **[Throughline](https://github.com/chloe4ai/throughline)** · [live](https://chloe4ai.github.io/throughline/) | Sep → Oct 2026 | ✅ | Documentation, billing and home-exercise adherence for outpatient PT (Physical Therapy) clinics, built toward a real product. One rule holds it together: the claim is derived from the note, never typed alongside it. Underneath is a tested billing engine — Medicare's 8-minute rule vs. the AMA (American Medical Association) rule of eights, MPPR (Multiple Procedure Payment Reduction), assistant modifiers and contract math — applied in the order that changes the dollars. |
 
 <br>
 
@@ -52,8 +57,8 @@ I build to learn. Projects are grouped by capability, newest first within each g
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Agent Ad Measurement Lab](https://github.com/chloe4ai/agent-ad-measurement-lab)** · [live](https://chloe4ai.github.io/agent-ad-measurement-lab/) | Oct 2026 | Demo | When an AI agent fetches a page with a sponsored block, the fetch proves only that the page was downloaded. This lab measures what actually reached the person — inclusion in the answer, whether the sponsorship label survived, whether the tracked link survived, and whether the traffic was a live user or a crawler. Billing on fetch overcounts by **3.8×**. Viewability, rebuilt for agents. |
-| **[LLM Eval Scorecard](https://github.com/chloe4ai/llm-eval-scorecard)** · [live](https://chloe4ai.github.io/llm-eval-scorecard/) | Aug → Oct 2026 | Tested | Side-by-side human eval with the parts most scorecards skip: randomized pane order with a position-bias test, bootstrap confidence intervals on the score gap, Krippendorff's α and weighted κ across raters, and a sample-size readout. Answers *can you act on this yet?*, not just *who won?* |
+| **[Agent Ad Measurement Lab](https://github.com/chloe4ai/agent-ad-measurement-lab)** · [live](https://chloe4ai.github.io/agent-ad-measurement-lab/) | Oct 2026 | 🛠️ | When an AI agent fetches a page with a sponsored block, the fetch proves only that the page was downloaded. This lab measures what actually reached the person — inclusion in the answer, whether the sponsorship label survived, whether the tracked link survived, and whether the traffic was a live user or a crawler. Billing on fetch overcounts by **3.8×**. Viewability, rebuilt for agents. |
+| **[LLM Eval Scorecard](https://github.com/chloe4ai/llm-eval-scorecard)** · [live](https://chloe4ai.github.io/llm-eval-scorecard/) | Aug → Oct 2026 | ✅ | Side-by-side human eval with the parts most scorecards skip: randomized pane order with a position-bias test, bootstrap confidence intervals on the score gap, Krippendorff's α and weighted κ across raters, and a sample-size readout. Answers *can you act on this yet?*, not just *who won?* |
 
 <br>
 
@@ -61,10 +66,10 @@ I build to learn. Projects are grouped by capability, newest first within each g
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Notification Lab](https://github.com/chloe4ai/notification-lab)** · [live](https://chloe4ai.github.io/notification-lab/) | Oct 2026 | Tested | Push notifications as a retention channel, not a volume dial. A 180-day cohort simulation grid-searches 54 send policies across three personas and reports what a 30-day test cannot see: D90 retention and how many people can still be reached by push or email. Frequency capping, applied to notifications. |
-| **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Apr → Nov 2026 | Tested | Predicts creative fatigue across Google, Meta and TikTok with an exponential-decay model over each platform's feed, and alerts before the decay shows up in ROAS. Per-platform frequency caps, because a Meta impression and a TikTok impression are not the same unit of attention. |
-| **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | Apr → Oct 2026 | Demo | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
-| **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** · [live](https://farmers-market-app-six.vercel.app/) | Apr 2026 | Demo | Sales logging, inventory forecasting and dynamic pricing for vendors who either sell out or throw out. A small marketplace business, built end to end. |
+| **[Notification Lab](https://github.com/chloe4ai/notification-lab)** · [live](https://chloe4ai.github.io/notification-lab/) | Oct 2026 | ✅ | Push notifications as a retention channel, not a volume dial. A 180-day cohort simulation grid-searches 54 send policies across three personas and reports what a 30-day test cannot see: D90 retention and how many people can still be reached by push or email. Frequency capping, applied to notifications. |
+| **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Apr → Nov 2026 | ✅ | Predicts creative fatigue across Google, Meta and TikTok with an exponential-decay model over each platform's feed, and alerts before the decay shows up in ROAS. Per-platform frequency caps, because a Meta impression and a TikTok impression are not the same unit of attention. |
+| **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | Apr → Oct 2026 | 🛠️ | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
+| **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** · [live](https://farmers-market-app-six.vercel.app/) | Apr 2026 | 🛠️ | Sales logging, inventory forecasting and dynamic pricing for vendors who either sell out or throw out. A small marketplace business, built end to end. |
 
 <br>
 
@@ -72,8 +77,8 @@ I build to learn. Projects are grouped by capability, newest first within each g
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Adaptation Radar](https://github.com/chloe4ai/adaptation-radar)** · [live](https://chloe4ai.github.io/adaptation-radar/) | Jul → Oct 2026 | Tested | Ranks books by screen-adaptation potential from four live public APIs, with every weight a slider so the model is something you argue with. A scheduled harvest records history, so the board shows the *slope*, not just the level. |
-| **[StreamScope](https://github.com/chloe4ai/streamscope)** · [live](https://chloe4ai.github.io/streamscope/) | Apr → Sep 2026 | Tested | A cross-platform CTV recommendation engine that unifies viewing history across Netflix, HBO Max, Hulu, Disney+ and Prime. |
+| **[Adaptation Radar](https://github.com/chloe4ai/adaptation-radar)** · [live](https://chloe4ai.github.io/adaptation-radar/) | Jul → Oct 2026 | ✅ | Ranks books by screen-adaptation potential from four live public APIs, with every weight a slider so the model is something you argue with. A scheduled harvest records history, so the board shows the *slope*, not just the level. |
+| **[StreamScope](https://github.com/chloe4ai/streamscope)** · [live](https://chloe4ai.github.io/streamscope/) | Apr → Sep 2026 | ✅ | A cross-platform CTV recommendation engine that unifies viewing history across Netflix, HBO Max, Hulu, Disney+ and Prime. |
 
 <br>
 
@@ -84,14 +89,14 @@ problem, the positions it defends, and what it deliberately is *not*.
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | Oct 2026 | Demo | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
-| **[Glean Compass](https://github.com/chloe4ai/glean-compass-v2)** · [live](https://chloe4ai.github.io/glean-compass-v2/) | Jul 2026 | Concept | Priority drift, detected. Precision over recall on purpose: two flags, not forty, and dismissal is training data rather than a delete button. |
-| **[Glean EI · full-stack](https://github.com/chloe4ai/glean-ei-fullstack)** · [live](https://chloe4ai.github.io/glean-ei-live/) | Jun 2026 | Demo | Proactive beats search — with a real Express backend, confidence genuinely recomputes server-side and agents stream over SSE. |
-| **[Glean Delivery Intelligence](https://github.com/chloe4ai/glean-delivery-intelligence)** · [live](https://chloe4ai.github.io/glean-delivery-intelligence/) | Jun 2026 | Concept | Proactive beats search — but only if every pushed insight can show the weight and measured precision of the signals beneath it. |
-| **[NerdWallet Money Next Steps](https://github.com/chloe4ai/nerdwallet-pm-prototype)** · [live](https://chloe4ai.github.io/nerdwallet-pm-prototype/) | Jun 2026 | Concept + Demo | Sequencing beats ranking: clear the 24% APR balance *before* the rewards card. Plus a [full-stack build](https://github.com/chloe4ai/nerdwallet-money-platform) on Next.js + Express + SQLite with a live funnel. |
-| **[Stitch Fix Household](https://github.com/chloe4ai/stitchfix-household)** · [live](https://stitchfix-household.vercel.app) | Jun 2026 | Concept | Household is an account architecture, not a product category — cross-category browse, shared member profiles, and recommendations that learn across people. |
-| **[Lyft Verticals](https://github.com/chloe4ai/lyft-verticals)** · [live](https://chloe4ai.github.io/lyft-verticals/) | Jun 2026 | Concept | Airports, scheduled rides and event egress are three marketplaces, not three filters on one — flight-aware pickup, price-lock, post-event demand staging. |
-| **[Midi Health](https://github.com/chloe4ai/midi-health-prototype)** · [live](https://midi-health.vercel.app) | Jun 2026 | Concept | Five specific conversion changes to a telehealth funnel, each tied to the anxiety it removes. |
+| **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | Oct 2026 | 🛠️ | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
+| **[Glean Compass](https://github.com/chloe4ai/glean-compass-v2)** · [live](https://chloe4ai.github.io/glean-compass-v2/) | Jul 2026 | 💡 | Priority drift, detected. Precision over recall on purpose: two flags, not forty, and dismissal is training data rather than a delete button. |
+| **[Glean EI · full-stack](https://github.com/chloe4ai/glean-ei-fullstack)** · [live](https://chloe4ai.github.io/glean-ei-live/) | Jun 2026 | 🛠️ | Proactive beats search — with a real Express backend, confidence genuinely recomputes server-side and agents stream over SSE. |
+| **[Glean Delivery Intelligence](https://github.com/chloe4ai/glean-delivery-intelligence)** · [live](https://chloe4ai.github.io/glean-delivery-intelligence/) | Jun 2026 | 💡 | Proactive beats search — but only if every pushed insight can show the weight and measured precision of the signals beneath it. |
+| **[NerdWallet Money Next Steps](https://github.com/chloe4ai/nerdwallet-pm-prototype)** · [live](https://chloe4ai.github.io/nerdwallet-pm-prototype/) | Jun 2026 | 💡 🛠️ | Sequencing beats ranking: clear the 24% APR balance *before* the rewards card. Plus a [full-stack build](https://github.com/chloe4ai/nerdwallet-money-platform) on Next.js + Express + SQLite with a live funnel. |
+| **[Stitch Fix Household](https://github.com/chloe4ai/stitchfix-household)** · [live](https://stitchfix-household.vercel.app) | Jun 2026 | 💡 | Household is an account architecture, not a product category — cross-category browse, shared member profiles, and recommendations that learn across people. |
+| **[Lyft Verticals](https://github.com/chloe4ai/lyft-verticals)** · [live](https://chloe4ai.github.io/lyft-verticals/) | Jun 2026 | 💡 | Airports, scheduled rides and event egress are three marketplaces, not three filters on one — flight-aware pickup, price-lock, post-event demand staging. |
+| **[Midi Health](https://github.com/chloe4ai/midi-health-prototype)** · [live](https://midi-health.vercel.app) | Jun 2026 | 💡 | Five specific conversion changes to a telehealth funnel, each tied to the anxiety it removes. |
 
 <br>
 
@@ -99,13 +104,13 @@ problem, the positions it defends, and what it deliberately is *not*.
 
 | Project | When | Status | What it is |
 |---|---|---|---|
-| **[Email Finder](https://github.com/chloe4ai/email-finder)** | Oct 2026 | Release | Chrome extension that finds someone's work email from their LinkedIn profile in one click. A free, open-source take on Wiza / Apollo that runs entirely in the browser — no account, no server. |
-| **[Sotto](https://github.com/chloe4ai/sotto)** | Jul → Oct 2026 | Release | Privacy-first on-device voice dictation for macOS and Windows, one hotkey per language. Speak softly, never type. |
-| **[WeChat MCP Bridge](https://github.com/chloe4ai/wechat-mcp-bridge)** | Sep 2026 | Demo | Gives Claude read access to your own WeChat history on macOS after every single-tool solution broke — ~15 lines of glue between two surviving projects, plus the four permission gates that cost people an afternoon. |
-| **[Meeting Scribe](https://github.com/chloe4ai/meeting-scribe)** | Aug 2026 | Release | Menu-bar app that notices a Zoom/Meet/Teams call has started and handles the notes — on-device, with consent treated as a product surface. |
-| **[LinkedIn Schedule Send](https://github.com/chloe4ai/linkedin-schedule-send)** | Aug 2026 | Demo | The button LinkedIn should have shipped. |
-| **[AI Trackers](https://github.com/chloe4ai/ai-trackers)** | Jun 2026 | Demo | Three scheduled trackers whose entire logic lives in natural-language `SKILL.md` files rather than code — an agent reads them, gathers live data, and delivers a bilingual digest. A bet on prompts-as-programs. |
-| **[Notch](https://github.com/chloe4ai/notch)** | Jun 2026 | Demo | Local-first macOS work journal that traces your day into AI summaries. |
+| **[Email Finder](https://github.com/chloe4ai/email-finder)** | Oct 2026 | 🚀 | Chrome extension that finds someone's work email from their LinkedIn profile in one click. A free, open-source take on Wiza / Apollo that runs entirely in the browser — no account, no server. |
+| **[Sotto](https://github.com/chloe4ai/sotto)** | Jul → Oct 2026 | 🚀 | Privacy-first on-device voice dictation for macOS and Windows, one hotkey per language. Speak softly, never type. |
+| **[WeChat MCP Bridge](https://github.com/chloe4ai/wechat-mcp-bridge)** | Sep 2026 | 🛠️ | Gives Claude read access to your own WeChat history on macOS after every single-tool solution broke — ~15 lines of glue between two surviving projects, plus the four permission gates that cost people an afternoon. |
+| **[Meeting Scribe](https://github.com/chloe4ai/meeting-scribe)** | Aug 2026 | 🚀 | Menu-bar app that notices a Zoom/Meet/Teams call has started and handles the notes — on-device, with consent treated as a product surface. |
+| **[LinkedIn Schedule Send](https://github.com/chloe4ai/linkedin-schedule-send)** | Aug 2026 | 🛠️ | The button LinkedIn should have shipped. |
+| **[AI Trackers](https://github.com/chloe4ai/ai-trackers)** | Jun 2026 | 🛠️ | Three scheduled trackers whose entire logic lives in natural-language `SKILL.md` files rather than code — an agent reads them, gathers live data, and delivers a bilingual digest. A bet on prompts-as-programs. |
+| **[Notch](https://github.com/chloe4ai/notch)** | Jun 2026 | 🛠️ | Local-first macOS work journal that traces your day into AI summaries. |
 
 <br>
 
