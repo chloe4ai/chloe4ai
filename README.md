@@ -49,7 +49,7 @@ I build to learn. Projects are grouped by capability, newest first within each g
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Throughline](https://github.com/chloe4ai/throughline)** · [live](https://chloe4ai.github.io/throughline/) | Sep → Oct 2026 | ✅ | Documentation, billing and home-exercise adherence for outpatient PT (Physical Therapy) clinics, built toward a real product. One rule holds it together: the claim is derived from the note, never typed alongside it. Underneath is a tested billing engine — Medicare's 8-minute rule vs. the AMA (American Medical Association) rule of eights, MPPR (Multiple Procedure Payment Reduction), assistant modifiers and contract math — applied in the order that changes the dollars. |
+| **[Throughline](https://github.com/chloe4ai/throughline)** · [live](https://chloe4ai.github.io/throughline/) | Sep → Nov 2026 | ✅ | Documentation, billing and home-exercise adherence for outpatient PT (Physical Therapy) clinics, built toward a real product. One rule holds it together: the claim is derived from the note, never typed alongside it. Underneath is a tested billing engine — Medicare's 8-minute rule vs. the AMA (American Medical Association) rule of eights, MPPR (Multiple Procedure Payment Reduction), assistant modifiers and contract math — applied in the order that changes the dollars. |
 
 <br>
 
@@ -57,7 +57,7 @@ I build to learn. Projects are grouped by capability, newest first within each g
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Agent Ad Measurement Lab](https://github.com/chloe4ai/agent-ad-measurement-lab)** · [live](https://chloe4ai.github.io/agent-ad-measurement-lab/) | Oct 2026 | 🛠️ | When an AI agent fetches a page with a sponsored block, the fetch proves only that the page was downloaded. This lab measures what actually reached the person — inclusion in the answer, whether the sponsorship label survived, whether the tracked link survived, and whether the traffic was a live user or a crawler. Billing on fetch overcounts by **3.8×**. Viewability, rebuilt for agents. |
+| **[Agent Ad Measurement Lab](https://github.com/chloe4ai/agent-ad-measurement-lab)** · [live](https://chloe4ai.github.io/agent-ad-measurement-lab/) | Oct → Nov 2026 | ✅ | When an AI agent fetches a page with a sponsored block, the fetch proves only that the page was downloaded. This lab measures what actually reached the person — inclusion in the answer, whether the sponsorship label survived, whether the tracked link survived, and whether the traffic was a live user or a crawler. Billing on fetch overcounts by **3.5×** (3.4–3.9× across 20 seeds), and the detector is also scored on held-out wording it was not written for. Viewability, rebuilt for agents. |
 | **[LLM Eval Scorecard](https://github.com/chloe4ai/llm-eval-scorecard)** · [live](https://chloe4ai.github.io/llm-eval-scorecard/) | Aug → Oct 2026 | ✅ | Side-by-side human eval with the parts most scorecards skip: randomized pane order with a position-bias test, bootstrap confidence intervals on the score gap, Krippendorff's α and weighted κ across raters, and a sample-size readout. Answers *can you act on this yet?*, not just *who won?* |
 
 <br>
@@ -68,7 +68,7 @@ I build to learn. Projects are grouped by capability, newest first within each g
 |---|---|---|---|
 | **[Notification Lab](https://github.com/chloe4ai/notification-lab)** · [live](https://chloe4ai.github.io/notification-lab/) | Oct 2026 | ✅ | Push notifications as a retention channel, not a volume dial. A 180-day cohort simulation grid-searches 54 send policies across three personas and reports what a 30-day test cannot see: D90 retention and how many people can still be reached by push or email. Frequency capping, applied to notifications. |
 | **[Ad Creative Optimizer](https://github.com/chloe4ai/ad-creative-optimizer)** · [live](https://ad-creative-optimizer.vercel.app) | Apr → Nov 2026 | ✅ | Predicts creative fatigue across Google, Meta and TikTok with an exponential-decay model over each platform's feed, and alerts before the decay shows up in ROAS. Per-platform frequency caps, because a Meta impression and a TikTok impression are not the same unit of attention. |
-| **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | Apr → Oct 2026 | 🛠️ | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
+| **[Offsite Ads Demo](https://github.com/chloe4ai/offsite-ads-demo)** · [live](https://chloe4ai.github.io/offsite-ads-demo/) | Apr → Nov 2026 | ✅ | The off-site flow end to end — objective, budget, bid type, audience, multi-placement preview, 7-day KPIs — with Amazon DSP and Walmart Connect side by side. The $500 floor and the $10,000 floor select for different advertisers, and the whole build follows from that. |
 | **[Mochi Market](https://github.com/chloe4ai/farmers-market-app)** · [live](https://farmers-market-app-six.vercel.app/) | Apr 2026 | 🛠️ | Sales logging, inventory forecasting and dynamic pricing for vendors who either sell out or throw out. A small marketplace business, built end to end. |
 
 <br>
@@ -89,7 +89,7 @@ problem, the positions it defends, and what it deliberately is *not*.
 
 | Project | When | Status | What it demonstrates |
 |---|---|---|---|
-| **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | Oct 2026 | 🛠️ | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
+| **[Readwise Learning Loop](https://github.com/chloe4ai/readwise-learning-loop)** · [live](https://chloe4ai.github.io/readwise-learning-loop/) | Oct → Nov 2026 | ✅ | What you learn in AI conversations should come back for review too. Imports a Claude or ChatGPT export and keeps the few sentences worth remembering, then reranks Daily Review by what you are working on this week — a relevance score, a spacing constraint and a diversity pass, the shape of an ad-ranking stack at small scale. |
 | **[Glean Compass](https://github.com/chloe4ai/glean-compass-v2)** · [live](https://chloe4ai.github.io/glean-compass-v2/) | Jul 2026 | 💡 | Priority drift, detected. Precision over recall on purpose: two flags, not forty, and dismissal is training data rather than a delete button. |
 | **[Glean EI · full-stack](https://github.com/chloe4ai/glean-ei-fullstack)** · [live](https://chloe4ai.github.io/glean-ei-live/) | Jun 2026 | 🛠️ | Proactive beats search — with a real Express backend, confidence genuinely recomputes server-side and agents stream over SSE. |
 | **[Glean Delivery Intelligence](https://github.com/chloe4ai/glean-delivery-intelligence)** · [live](https://chloe4ai.github.io/glean-delivery-intelligence/) | Jun 2026 | 💡 | Proactive beats search — but only if every pushed insight can show the weight and measured precision of the signals beneath it. |
@@ -104,7 +104,7 @@ problem, the positions it defends, and what it deliberately is *not*.
 
 | Project | When | Status | What it is |
 |---|---|---|---|
-| **[Email Finder](https://github.com/chloe4ai/email-finder)** | Oct 2026 | 🚀 | Chrome extension that finds someone's work email from their LinkedIn profile in one click. A free, open-source take on Wiza / Apollo that runs entirely in the browser — no account, no server. |
+| **[Email Finder](https://github.com/chloe4ai/email-finder)** | Oct → Nov 2026 | 🚀 | Chrome extension that finds someone's work email from their LinkedIn profile in one click. A free, open-source take on Wiza / Apollo that runs entirely in the browser — no account, no server. |
 | **[Sotto](https://github.com/chloe4ai/sotto)** | Jul → Oct 2026 | 🚀 | Privacy-first on-device voice dictation for macOS and Windows, one hotkey per language. Speak softly, never type. |
 | **[WeChat MCP Bridge](https://github.com/chloe4ai/wechat-mcp-bridge)** | Sep 2026 | 🛠️ | Gives Claude read access to your own WeChat history on macOS after every single-tool solution broke — ~15 lines of glue between two surviving projects, plus the four permission gates that cost people an afternoon. |
 | **[Meeting Scribe](https://github.com/chloe4ai/meeting-scribe)** | Aug 2026 | 🚀 | Menu-bar app that notices a Zoom/Meet/Teams call has started and handles the notes — on-device, with consent treated as a product surface. |
